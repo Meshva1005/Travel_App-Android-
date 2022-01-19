@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867289579982",
+    "project_id": "auth-51865",
+    "storage_bucket": "auth-51865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867289579982:android:1c6ba9966787197d412b9f",
+        "android_client_info": {
+          "package_name": "com.example.tempauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867289579982-tlqt9f7ad68t8925fqr5jbailg3smcj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtpjDIz6qdYr-vXrbGMjbeMEefdH3kxzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867289579982-tlqt9f7ad68t8925fqr5jbailg3smcj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
